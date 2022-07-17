@@ -12,7 +12,7 @@
 - Deploy the model
 ---------------------------------------------------------------
 
-### Before uploading to GitHub and Heroku, be sure about the local run is OK.
+### Before uploading to WS EC2 instance, be sure about the local run is OK.
 ![image](https://user-images.githubusercontent.com/51021282/179383930-8f7bda42-d22c-489b-8873-3e6d1c162d3a.png)
 
 ### Transfer files to S3
