@@ -22,3 +22,5 @@
 
 ### Transfer files from S3 to EC2 instance
 
+![image](https://user-images.githubusercontent.com/51021282/179384044-d568e850-b2e6-4435-96d0-9edadaffe659.png)
+
